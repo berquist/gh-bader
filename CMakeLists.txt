@@ -18,7 +18,7 @@ set(SRC
     options_mod.f90
     results_mod.f90
     voronoi_mod.f90
-    wavecar_mod.f90
+    # wavecar_mod.f90
     weight_mod.f90
     )
 
